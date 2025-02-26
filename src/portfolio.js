@@ -20,24 +20,24 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Minh Phuc",
-  title: "Hi all, I'm Minh Phuc",
+  username: "Huy Nguyen",
+  title: "Hi, I'm Huy Nguyen",
   subTitle: emoji(
     "A passionate Full Stack Software Developer 🚀 having an experience of building Web and Mobile applications with JavaScript / Reactjs / Nodejs / React Native and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1UA5WiHlK4O-eD5OOMcQwOVnjPH_KMSf6/view", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1OFNYhibleQa4KUjdXHrruIuqbHSkQsZh/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
 // Social Media Links
 
 const socialMediaLinks = {
-  github: "https://github.com/nguyenphuc17Zz",
+  github: "https://github.com/HuyNguyen777",
   linkedin: "https://www.linkedin.com/",
-  gmail: "nguyenphuc123@gmail.com",
+  gmail: "huynguyen6498@gmail.com",
   gitlab: "https://gitlab.com/",
-  facebook: "https://www.facebook.com/",
+  facebook: "https://www.facebook.com/huyng67",
   medium: "https://medium.com/",
   stackoverflow: "https://stackoverflow.com/",
   // Instagram, Twitter and Kaggle are also supported in the links!
@@ -125,7 +125,7 @@ https://fontawesome.com/icons?d=gallery */
 const educationInfo = {
   display: true, // Set false to hide this section, defaults to true
   schools: [
-    {
+   /* {
       schoolName: "Harvard University",
       logo: require("./assets/images/harvardLogo.png"),
       subHeader: "Master of Science in Computer Science",
@@ -135,12 +135,12 @@ const educationInfo = {
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
       ]
-    },
+    },*/
     {
       schoolName: "SaiGon University",
       logo: require("./assets/images/stanfordLogo.png"),
       subHeader: "Bachelor of Science in Computer Science",
-      duration: "September 2013 - April 2017",
+      duration: "September 2021 - Now",
       desc: "Ranked top 10% in the program. Took courses about Software Engineering, Web Security, Operating Systems, ...",
       descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
     }
@@ -372,8 +372,8 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  number: "+92-0000000000",
-  email_address: "nguyenvanminhphuc123@gmail.com"
+  number: "+84-000000000",
+  email_address: "huynguyen6498@gmail.com"
 };
 
 // Twitter Section
